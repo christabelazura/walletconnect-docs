@@ -1,0 +1,1 @@
+![call-request.png](https://github.com/WalletConnect/walletconnect-docs/blob/master/.gitbook/assets/call-request.png?raw=true)
